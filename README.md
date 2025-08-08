@@ -31,11 +31,7 @@ To analyze and visualize e-commerce data to:
 - **Microsoft Excel** – for preliminary data cleaning and preparation
 - **GitHub** – for version control and project documentation
 
-
-
 - The dashboard is designed using the **“Fit to Page”** layout to ensure optimal viewing across all devices.
 - This project demonstrates proficiency in data storytelling, KPI analysis, and business intelligence using Power BI.
 
----
-
-**Developed as part of the FUTURE Internship Program – Data Science & Analytics Track, Task 2**
+**Developed as part of the FUTURE Internship Program – Data Science & Analytics Track, Task 1**
